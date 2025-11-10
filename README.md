@@ -6,7 +6,7 @@ Welcome to the official website project for the **Asociación Nacional de Argeli
 
 ## 📸 Preview
 
-![Homepage Demo](./public/images/screenshots/homepage-demo.gif)
+![Homepage Demo](./public/images/screenshots/homepage-demo.png)
 
 ## About the Association
 
@@ -65,17 +65,23 @@ The project requires several environment variables. See [`.env.example`](./.env.
 ## ✨ Features
 
 - 🌍 **Multilingual** - Support for 4 languages (Spanish, French, English, Arabic)
-- 📱 **Responsive** - Mobile-first design
-- 🌙 **Dark Mode** - Automatic theme switching
+- 🔄 **RTL Support** - Full Right-to-Left layout support for Arabic language
+- 📱 **Responsive** - Optimized for mobile and desktop
 - 📝 **Blog System** - MDX-powered blog with GitHub Flavored Markdown
-- 🔍 **SEO Optimized** - Meta tags, Open Graph, Twitter Cards
-- ♿ **Accessible** - WCAG AA compliant
+- 🔍 **SEO Optimized** - Meta tags, Open Graph, Twitter Cards, hreflang, and structured data (JSON-LD)
+- 📧 **Contact Form** - Secure contact form with email integration (Zoho SMTP), input validation, sanitization, and rate limiting
+- 🗺️ **Sitemap & Robots** - Automatically generated sitemap.xml and robots.txt for better SEO
+- ♿ **Accessible** - WCAG AA compliant with Radix UI components
 - 🚀 **Performance** - Static generation, optimized images
+- 🔒 **Security** - Input sanitization, rate limiting, and secure email handling
+- 💻 **TypeScript** - Full TypeScript support for type safety
+- 🎨 **Modern UI** - Tailwind CSS with custom design system and Radix UI primitives
 
 ## 🚧 TODO
 
 - [ ] **Redis for email** - Rate limiting and email queue with Redis
 - [ ] **Gallery page** - Complete gallery implementation
+- [ ] **Interactive Resources Map** - Interactive map with categorized markers (tags) for important addresses for Algerians in Spain (embassies, consulates, administrative offices, cultural centers).
 ## 🗂️ Project Structure
 
 ```

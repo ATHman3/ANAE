@@ -1,0 +1,41 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond gradient professionnel -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Arrière-plan -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  
+  <!-- Motifs décoratifs -->
+  <circle cx="100" cy="100" r="150" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1100" cy="530" r="200" fill="#ffffff" opacity="0.05"/>
+  
+  <!-- Contenu principal -->
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ANAE
+  </text>
+  
+  <text x="600" y="320" font-family="Arial, sans-serif" font-size="32" fill="#e0e7ff" text-anchor="middle">
+    Asociación Nacional de Argelinos en España
+  </text>
+  
+  <line x1="400" y1="360" x2="800" y2="360" stroke="#ffffff" stroke-width="2" opacity="0.5"/>
+  
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1" text-anchor="middle">
+    Construyendo puentes de esperanza
+  </text>
+  
+  <text x="600" y="470" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1" text-anchor="middle">
+    entre comunidades
+  </text>
+  
+  <!-- Localisation -->
+  <text x="600" y="550" font-family="Arial, sans-serif" font-size="20" fill="#94a3b8" text-anchor="middle">
+    Zaragoza, España
+  </text>
+</svg>
+

@@ -1,0 +1,560 @@
+{
+  "metadata": {
+    "title": "ANAE - Asociación Nacional de Argelinos en España",
+    "description": "La Asociación Nacional de Argelinos en España (ANAE) trabaja incansablemente para construir puentes de esperanza, empoderar a las personas y crear cambios duraderos en nuestras comunidades."
+  },
+  "seo": {
+    "home": {
+      "title": "ANAE - Asociación Nacional de Argelinos en España",
+      "description": "ANAE promueve la cultura argelina en España. Organizamos eventos culturales, mediación sociocultural y asistencia administrativa para la comunidad argelina.",
+      "keywords": "asociación argelina españa, cultura argelina, comunidad argelina zaragoza, eventos culturales, mediación sociocultural, ANAE",
+      "imageAlt": "ANAE - Asociación Nacional de Argelinos en España"
+    },
+    "about": {
+      "title": "Acerca de ANAE - Nuestra Misión y Valores",
+      "description": "Descubre ANAE: promoción cultural, mediación sociocultural y apoyo a la comunidad argelina en España. Valores de solidaridad, respeto e inclusión.",
+      "keywords": "sobre anae, misión anae, valores anae, asociación argelina, promoción cultural argelina",
+      "imageAlt": "Acerca de la Asociación Nacional de Argelinos en España"
+    },
+    "contact": {
+      "title": "Contacto - ANAE | Contáctanos",
+      "description": "Contáctanos para cualquier pregunta o asistencia. Email: contacto@asociacionanae.org | Teléfono: +34 674 748 699 | Zaragoza, España",
+      "keywords": "contacto anae, email anae, teléfono anae, contactar asociación argelina",
+      "imageAlt": "Contacta con ANAE"
+    },
+    "blog": {
+      "title": "Blog y Noticias - ANAE",
+      "description": "Mantente informado con las últimas noticias, eventos y historias de la comunidad argelina en España. Blog oficial de ANAE.",
+      "keywords": "blog anae, noticias comunidad argelina, eventos culturales, noticias anae",
+      "imageAlt": "Blog y Noticias ANAE"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes - ANAE",
+      "description": "Encuentra respuestas a las preguntas más comunes sobre ANAE: donaciones, voluntariado, nuestras acciones y cómo unirte a nosotros.",
+      "keywords": "preguntas frecuentes anae, faq anae, donaciones, voluntariado, información anae",
+      "imageAlt": "Preguntas Frecuentes ANAE"
+    },
+    "privacy": {
+      "title": "Política de Privacidad - ANAE | RGPD",
+      "description": "Política de privacidad de ANAE conforme al RGPD. Protección de datos personales, tus derechos y cómo utilizamos tu información.",
+      "keywords": "política privacidad anae, rgpd, protección datos, privacidad",
+      "imageAlt": "Política de Privacidad ANAE"
+    },
+    "cookies": {
+      "title": "Política de Cookies - ANAE",
+      "description": "Información sobre el uso de cookies en el sitio web de ANAE. Cookies técnicas esenciales y cómo gestionarlas.",
+      "keywords": "política cookies anae, cookies, gestión cookies",
+      "imageAlt": "Política de Cookies ANAE"
+    },
+    "gallery": {
+      "title": "Galería - ANAE | Eventos y Actividades",
+      "description": "Descubre los momentos destacados de nuestros eventos culturales, actividades e iniciativas comunitarias a través de nuestra galería de fotos y vídeos.",
+      "keywords": "galería anae, fotos eventos, vídeos actividades, eventos culturales",
+      "imageAlt": "Galería de Eventos ANAE"
+    }
+  },
+  "language": {
+    "name": "Español",
+    "flag": "🇪🇸"
+  },
+  "nav": {
+    "home": "Inicio",
+    "association": {
+      "title": "La Asociación",
+      "about": "Acerca de",
+      "gallery": "Galería"
+    },
+    "contact": "Contacto",
+    "blog": "Blog",
+    "donate": "Donar"
+  },
+  "hero": {
+    "badge": "Esperanza en acción",
+    "headline": "Construyendo puentes de esperanza entre comunidades",
+    "subheadline": "Empoderando a las personas, fomentando la integración y creando cambios duraderos a través de la acción compasiva y el apoyo comunitario.",
+    "primaryCta": "Únete a nosotros",
+    "secondaryCta": "Ver la galería",
+    "summaryCta": "Ve nuestro impacto",
+    "scrollHint": "Descubre el poder de la comunidad",
+    "stats": {
+      "years": {
+        "label": "Años de servicio"
+      },
+      "initiatives": {
+        "value": "50+",
+        "label": "Actividades organizadas"
+      },
+      "volunteers": {
+        "value": "500+",
+        "label": "Personas alcanzadas"
+      }
+    }
+  },
+  "location": {
+    "city": "Zaragoza",
+    "country": "España"
+  },
+  "footer": {
+    "description": "La Asociación Nacional de Argelinos en España (ANAE) trabaja incansablemente para construir puentes de esperanza, empoderar a las personas y crear cambios duraderos en nuestras comunidades.",
+    "quickLinks": {
+      "title": "Enlaces rápidos",
+      "about": "Acerca de nosotros",
+      "events": "Eventos",
+      "blog": "Blog",
+      "news": "Noticias",
+      "faq": "Preguntas Frecuentes"
+    },
+    "contact": {
+      "title": "Contacto",
+      "address": "Zaragoza, España"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Política de privacidad",
+      "terms": "Términos y condiciones",
+      "cookies": "Política de cookies",
+      "transparency": "Transparencia"
+    },
+    "certifications": {
+      "secure": "Pagos seguros",
+      "certified": "Organización certificada",
+      "transparency": "Transparencia total en el uso de fondos"
+    },
+    "copyright": "Todos los derechos reservados",
+    "registration": "Registro Nacional de Asociaciones",
+    "taxId": "NIF: G01968437",
+    "developedBy": "Desarrollado con ⚡ por"
+  },
+  "donation": {
+    "title": "Hacer una donación",
+    "subtitle": "Elige tu método de pago preferido",
+    "methods": {
+      "paypal": {
+        "title": "PayPal",
+        "description": "Pago seguro con PayPal",
+        "button": "Donar con PayPal"
+      },
+      "bizum": {
+        "title": "Bizum",
+        "description": "Pago instantáneo por móvil",
+        "button": "Donar con Bizum",
+        "details": {
+          "title": "Detalles de Bizum",
+          "phone": "Teléfono: 654 155 924"
+        }
+      },
+      "sepa": {
+        "title": "Transferencia SEPA",
+        "description": "Transferencia bancaria tradicional",
+        "button": "Ver detalles",
+        "details": {
+          "title": "Detalles de la transferencia SEPA",
+          "iban": "IBAN: ES81 0049 0401 1122 1027 2614",
+          "beneficiary": "Beneficiario: Asociación Nacional de Argelinos en España"
+        }
+      }
+    },
+    "close": "Cerrar",
+    "secure": "Pagos 100% seguros",
+    "transparency": "Transparencia total en el uso de fondos"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para ayudarte. No dudes en contactarnos para cualquier pregunta o asistencia.",
+    "info": {
+      "title": "Información de contacto",
+      "email": {
+        "title": "Email",
+        "value": "contacto@asociacionanae.org",
+        "description": "Respuesta en 24h"
+      },
+      "phone": {
+        "title": "Teléfono",
+        "value": "+34 674 748 699",
+        "description": "Lun-Vie 9h-18h"
+      },
+      "whatsapp": {
+        "available": "WhatsApp disponible"
+      },
+      "address": {
+        "title": "Dirección",
+        "value": "Zaragoza, España",
+        "description": "Oficina principal"
+      }
+    },
+    "social": {
+      "title": "Redes sociales",
+      "description": "Síguenos y mantente conectado"
+    },
+    "form": {
+      "fields": {
+        "name": "Nombre completo",
+        "email": "Dirección de email",
+        "subject": "Asunto",
+        "message": "Mensaje"
+      },
+      "placeholders": {
+        "name": "Tu nombre completo",
+        "email": "tu@email.com",
+        "subject": "Asunto de tu mensaje",
+        "message": "Describe tu consulta o pregunta..."
+      },
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado con éxito! Te responderemos pronto.",
+      "error": "Error al enviar el mensaje"
+    }
+  },
+  "blog": {
+    "title": "Blog y Noticias",
+    "description": "Mantente informado con las últimas noticias, eventos y historias de nuestra comunidad",
+    "noPosts": "No hay artículos disponibles en este momento",
+    "minRead": "min de lectura"
+  },
+  "notFound": {
+    "title": "Página No Encontrada",
+    "subtitle": "La página que buscas no existe o ha sido movida.",
+    "description": "No te preocupes, nos pasa a todos. Te ayudamos a volver al camino correcto.",
+    "actions": {
+      "home": "Ir al Inicio"
+    }
+  },
+  "about": {
+    "title": "Acerca de ANAE",
+    "intro": "La Asociación Nacional de Argelinos en España (ANAE) se erige como un faro de promoción cultural y mediación sociocultural para la comunidad argelina y las diversas culturas presentes en España. Nuestro compromiso se centra en la promoción de la cultura argelina, el fortalecimiento de la identidad de nuestros compatriotas y la construcción de puentes de entendimiento entre las distintas comunidades que conviven en este país.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "La ANAE se esfuerza por ser un punto de encuentro y apoyo para los argelinos en España. Nuestros principales objetivos son:",
+      "points": {
+        "culture": {
+          "title": "Promover la Cultura Argelina",
+          "description": "Organizamos eventos culturales, exposiciones, proyecciones de películas, talleres y conferencias para difundir la rica herencia cultural de Argelia entre la comunidad argelina y el público español en general."
+        },
+        "mediation": {
+          "title": "Mediación Sociocultural",
+          "description": "Ofrecemos servicios de orientación y mediación para facilitar la integración de los argelinos en la sociedad española. Además, promovemos el diálogo intercultural y la cohesión social entre las diferentes comunidades presentes en España."
+        },
+        "activities": {
+          "title": "Encuentros y Actividades",
+          "description": "Organizamos encuentros regulares donde los argelinos pueden reunirse, compartir experiencias, establecer redes de apoyo y participar en actividades recreativas y educativas."
+        }
+      }
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "description": "La ANAE se fundamenta en valores de solidaridad, respeto, inclusión y diversidad. Nos esforzamos por crear un ambiente acogedor y colaborativo donde todas las personas se sientan valoradas y respetadas, independientemente de su origen cultural o religioso."
+    },
+    "join": {
+      "title": "Únete a Nosotros",
+      "description": "Si eres argelino y te encuentras en España, te invitamos a unirte a ANAE y formar parte de nuestra comunidad. Juntos, podemos fortalecer nuestra identidad cultural, promover la integración y contribuir al enriquecimiento mutuo entre las diferentes culturas que conviven en este hermoso país.",
+      "closing": "¡Bienvenido a la Asociación Nacional de Argelinos en España! Juntos, construiremos un futuro más próspero y armonioso para todos."
+    }
+  },
+  "gallery": {
+    "title": "Galería",
+    "description": "Descubre los momentos destacados de nuestros eventos, actividades e iniciativas comunitarias a través de nuestra colección de fotos y vídeos.",
+    "comingSoon": {
+      "title": "Próximamente",
+      "description": "Estamos preparando una galería completa de fotos y vídeos de nuestros eventos y actividades. ¡Vuelve pronto para descubrir nuestros momentos más memorables!",
+      "photos": "Fotos",
+      "videos": "Vídeos",
+      "events": "Eventos"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización",
+    "intro": "La Asociación Nacional de Argelinos en España (ANAE) se compromete a proteger su privacidad y cumplir con el Reglamento General de Protección de Datos (RGPD). Esta política explica cómo recopilamos, utilizamos y protegemos sus datos personales.",
+    "sections": {
+      "controller": {
+        "title": "1. Responsable del Tratamiento",
+        "description": "El responsable del tratamiento de datos personales es:",
+        "org": "Asociación Nacional de Argelinos en España (ANAE)",
+        "nif": "NIF: G01968437",
+        "address": "Zaragoza, España",
+        "email": "contacto@asociacionanae.org",
+        "phone": "+34 674 748 699"
+      },
+      "dataCollected": {
+        "title": "2. Datos Recopilados",
+        "description": "Recopilamos los siguientes datos personales:",
+        "types": {
+          "contact": {
+            "title": "Datos de Contacto",
+            "list": "Nombre completo, dirección de correo electrónico, asunto y mensaje cuando utiliza nuestro formulario de contacto"
+          },
+          "donations": {
+            "title": "Datos de Donaciones",
+            "description": "La información de pago es gestionada directamente por proveedores terceros (PayPal, Bizum, instituciones bancarias). No almacenamos sus datos bancarios."
+          },
+          "navigation": {
+            "title": "Datos de Navegación",
+            "list": "Direcciones IP, tipo de navegador, páginas visitadas, duración de la visita, cookies (consulte nuestra política de cookies)"
+          }
+        }
+      },
+      "purposes": {
+        "title": "3. Finalidades del Tratamiento",
+        "description": "Utilizamos sus datos personales para:",
+        "list": {
+          "contact": "Responder a sus consultas a través del formulario de contacto",
+          "donations": "Gestionar las donaciones y garantizar la transparencia financiera",
+          "improvement": "Mejorar nuestro sitio web y nuestros servicios",
+          "communication": "Comunicarnos con miembros y simpatizantes de la asociación",
+          "legal": "Cumplir con nuestras obligaciones legales y regulatorias"
+        }
+      },
+      "legalBasis": {
+        "title": "4. Base Legal del Tratamiento",
+        "description": "El tratamiento de sus datos se basa en:",
+        "consent": "Consentimiento: para el formulario de contacto y las cookies no esenciales",
+        "legitimate": "Interés legítimo: para la mejora de nuestro sitio web y la comunicación",
+        "legal": "Obligación legal: para la conservación de datos contables"
+      },
+      "retention": {
+        "title": "5. Duración de Conservación",
+        "description": "Conservamos sus datos personales:",
+        "contact": "Datos de contacto: 3 años desde la última interacción",
+        "after": "Después de estos períodos, sus datos se eliminan o anonimizan de forma segura"
+      },
+      "recipients": {
+        "title": "6. Destinatarios de los Datos",
+        "description": "Sus datos pueden ser compartidos con:",
+        "providers": {
+          "title": "Proveedores de Servicios",
+          "list": "servicios de envío de correo electrónico (Zoho Mail)"
+        },
+        "legal": {
+          "title": "Autoridades Legales",
+          "description": "Si la ley lo requiere o para cumplir con una obligación legal"
+        },
+        "not": "Nunca vendemos sus datos personales a terceros con fines comerciales"
+      },
+      "transfers": {
+        "title": "7. Transferencias Internacionales",
+        "description": "Algunos de nuestros proveedores de servicios pueden estar ubicados fuera de la Unión Europea:",
+        "paypal": "PayPal: puede transferir datos a Estados Unidos (sujeto a Privacy Shield y cláusulas contractuales estándar)",
+        "safeguards": "Nos aseguramos de que existan salvaguardas apropiadas para proteger sus datos en estas transferencias"
+      },
+      "rights": {
+        "title": "8. Sus Derechos",
+        "description": "De acuerdo con el RGPD, usted tiene los siguientes derechos:",
+        "access": "Derecho de acceso: obtener una copia de sus datos personales",
+        "rectification": "Derecho de rectificación: corregir sus datos inexactos",
+        "erasure": "Derecho al olvido: solicitar la eliminación de sus datos",
+        "opposition": "Derecho de oposición: oponerse al tratamiento de sus datos",
+        "portability": "Derecho a la portabilidad: recibir sus datos en un formato estructurado",
+        "restriction": "Derecho a la limitación: limitar el tratamiento de sus datos",
+        "exercise": "Para ejercer estos derechos, contáctenos en: contacto@asociacionanae.org"
+      },
+      "security": {
+        "title": "9. Medidas de Seguridad",
+        "description": "Implementamos medidas técnicas y organizativas apropiadas para proteger sus datos:",
+        "measures": {
+          "encryption": "Cifrado SSL/TLS para todas las comunicaciones",
+          "access": "Control estricto de acceso a datos personales",
+          "backup": "Copias de seguridad regulares y seguras",
+          "training": "Formación del personal sobre protección de datos",
+          "updates": "Actualizaciones regulares de nuestros sistemas de seguridad"
+        }
+      },
+      "cookies": {
+        "title": "10. Cookies y Rastreadores",
+        "description": "Nuestro sitio utiliza cookies para mejorar su experiencia. Para más información, consulte nuestra",
+        "link": "Política de Cookies"
+      },
+      "changes": {
+        "title": "11. Modificaciones de esta Política",
+        "description": "Podemos actualizar esta política de privacidad ocasionalmente. Cualquier modificación se publicará en esta página con una fecha de actualización revisada."
+      },
+      "contact": {
+        "title": "12. Contacto",
+        "description": "Para cualquier pregunta sobre esta política de privacidad o sus datos personales, contáctenos:",
+        "email": "Correo electrónico: contacto@asociacionanae.org",
+        "phone": "Teléfono: +34 674 748 699"
+      }
+    }
+  },
+  "home": {
+    "sections": {
+      "whatWeDo": {
+        "title": "Lo que hacemos",
+        "description": "Nuestra asociación trabaja para fortalecer los vínculos dentro de la comunidad argelina en España y promover la integración cultural. Creamos espacios de encuentro, intercambio y solidaridad.",
+        "illustrationPlaceholder": "Ilustración próximamente"
+      },
+      "culturalEvents": {
+        "title": "Eventos Culturales",
+        "description": "Organizamos regularmente eventos culturales para promover la rica cultura argelina en España. Exposiciones de arte, conciertos de música tradicional, conferencias sobre la historia y la literatura argelinas, así como talleres de gastronomía permiten compartir nuestro patrimonio con la comunidad española y fortalecer los vínculos interculturales.",
+        "illustrationPlaceholder": "Ilustración próximamente"
+      },
+      "ramadanIftar": {
+        "title": "Iftar de Ramadán",
+        "description": "Cada año, nuestra asociación organiza un iftar de ramadán para ayudar a las personas en dificultades que no pueden vivir y comer en las condiciones del ramadán. Gracias a la generosidad de nuestros contribuidores y donantes, ofrecemos comidas y apoyo esencial a quienes más lo necesitan durante este período tradicional argelino. Es un momento de solidaridad y compartir que fortalece los vínculos comunitarios y perpetúa nuestros valores de ayuda mutua.",
+        "illustrationPlaceholder": "Ilustración próximamente"
+      },
+      "services": {
+        "title": "Servicios y Coordinación",
+        "description": "Nuestra asociación asegura la coordinación con el consulado de Argelia y las autoridades españolas para facilitar los trámites administrativos de la comunidad argelina. Servimos como intermediario y punto de contacto para las cuestiones relacionadas con documentos, legalización, formalidades de residencia y otros procedimientos administrativos necesarios para la integración en España.",
+        "illustrationPlaceholder": "Ilustración próximamente"
+      }
+    }
+  },
+  "cookies": {
+    "title": "Política de Cookies",
+    "lastUpdated": "Última actualización",
+    "intro": "Esta página le informa sobre el uso de cookies en nuestro sitio web. Respetamos su privacidad y somos transparentes sobre las cookies que utilizamos.",
+    "sections": {
+      "whatAre": {
+        "title": "1. ¿Qué es una Cookie?",
+        "description": "Una cookie es un pequeño archivo de texto almacenado en su dispositivo (computadora, tableta, smartphone) cuando visita un sitio web. Las cookies permiten que el sitio recuerde sus preferencias y mejore su experiencia de navegación."
+      },
+      "types": {
+        "title": "2. Tipos de Cookies Utilizadas",
+        "description": "Nuestro sitio utiliza únicamente cookies técnicas esenciales, estrictamente necesarias para el correcto funcionamiento del sitio. No utilizamos cookies de seguimiento, publicidad o análisis.",
+        "technical": {
+          "title": "Cookies Técnicas (Esenciales)",
+          "description": "Estas cookies son indispensables para el funcionamiento del sitio y no requieren consentimiento según el RGPD:",
+          "list": {
+            "session": "Cookies de sesión: permiten mantener su sesión activa durante su visita (duración: sesión, se eliminan al cerrar el navegador)",
+            "security": "Cookies de seguridad: protegen el sitio contra ataques y aseguran la seguridad de los datos (duración: sesión)",
+            "preferences": "Cookies de preferencias: memorizan sus elecciones de idioma y visualización (si aplica)"
+          }
+        },
+        "notUsed": {
+          "title": "Cookies No Utilizadas",
+          "description": "NO utilizamos los siguientes tipos de cookies:",
+          "list": {
+            "analytics": "Cookies analíticas (Google Analytics, etc.)",
+            "advertising": "Cookies publicitarias",
+            "social": "Cookies de redes sociales",
+            "tracking": "Cookies de seguimiento conductual"
+          }
+        }
+      },
+      "purpose": {
+        "title": "3. Finalidad de las Cookies",
+        "description": "Las cookies técnicas que utilizamos sirven únicamente para:",
+        "list": {
+          "functionality": "Asegurar el correcto funcionamiento del sitio",
+          "security": "Mantener la seguridad de su sesión",
+          "preferences": "Recordar sus preferencias de idioma y visualización (si aplica)"
+        }
+      },
+      "duration": {
+        "title": "4. Duración de Conservación",
+        "description": "Las cookies técnicas son:",
+        "session": "Eliminadas automáticamente al cerrar su navegador (cookies de sesión)",
+        "temporary": "Estrictamente temporales y no persisten después de su visita"
+      },
+      "thirdParty": {
+        "title": "5. Cookies de Terceros",
+        "description": "Nuestro sitio no utiliza ninguna cookie de terceros. Todas las cookies utilizadas son cookies de primera parte, gestionadas directamente por nuestro sitio."
+      },
+      "management": {
+        "title": "6. Gestión de Cookies",
+        "description": "Puede gestionar o eliminar las cookies en cualquier momento a través de la configuración de su navegador:",
+        "instructions": {
+          "chrome": "Chrome: Configuración > Privacidad y seguridad > Cookies",
+          "firefox": "Firefox: Opciones > Privacidad y seguridad > Cookies",
+          "safari": "Safari: Preferencias > Privacidad > Cookies",
+          "edge": "Edge: Configuración > Privacidad, búsqueda y servicios > Cookies"
+        },
+        "note": "Nota: La desactivación de las cookies técnicas puede afectar el funcionamiento del sitio."
+      },
+      "consent": {
+        "title": "7. Consentimiento",
+        "description": "De acuerdo con el RGPD, las cookies técnicas esenciales no requieren consentimiento previo porque son estrictamente necesarias para el funcionamiento del sitio. Como solo utilizamos cookies esenciales, no se requiere ningún banner de consentimiento.",
+        "future": "Si introdujéramos cookies no esenciales en el futuro (cookies analíticas, por ejemplo), implementaríamos un sistema de consentimiento conforme al RGPD."
+      },
+      "updates": {
+        "title": "8. Modificaciones de esta Política",
+        "description": "Podemos actualizar esta política de cookies ocasionalmente. Cualquier modificación se publicará en esta página con una fecha de actualización revisada."
+      },
+      "contact": {
+        "title": "9. Contacto",
+        "description": "Para cualquier pregunta sobre nuestro uso de cookies, contáctenos:",
+        "email": "Correo electrónico: contacto@asociacionanae.org",
+        "phone": "Teléfono: +34 674 748 699"
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "intro": "Encuentra respuestas a las preguntas más comunes sobre nuestra asociación, nuestras acciones, nuestras donaciones y cómo unirte a nosotros.",
+    "categories": {
+      "about": {
+        "title": "Acerca de la asociación",
+        "questions": [
+          {
+            "question": "¿Qué hace exactamente la asociación?",
+            "answer": "La Asociación Nacional de Argelinos en España (ANAE) trabaja para la promoción cultural y la mediación sociocultural. Organizamos eventos culturales (exposiciones, proyecciones de películas, talleres, conferencias), ofrecemos servicios de mediación y orientación para facilitar la integración de los argelinos en España, y coordinamos con el consulado de Argelia y las autoridades españolas para los trámites administrativos. También organizamos encuentros regulares para fortalecer los vínculos comunitarios y promover el diálogo intercultural."
+          },
+          {
+            "question": "¿Por qué se creó esta asociación?",
+            "answer": "ANAE fue creada para responder a las necesidades de la comunidad argelina en España. Identificamos la necesidad de crear un espacio de encuentro, apoyo y promoción cultural que permita a los argelinos mantener su identidad cultural mientras favorecen su integración en la sociedad española. La asociación sirve como puente entre culturas y facilita la comprensión mutua entre las diferentes comunidades."
+          },
+          {
+            "question": "¿Cuál es su visión a largo plazo?",
+            "answer": "Nuestra visión a largo plazo es convertirnos en una referencia para la comunidad argelina en España, fortaleciendo los vínculos culturales, favoreciendo la integración social y contribuyendo al enriquecimiento mutuo entre las culturas. Aspiramos a ampliar nuestras actividades, desarrollar más programas de ayuda y mediación, y crear una red sólida de apoyo que beneficie no solo a los argelinos sino a toda la sociedad española a través del diálogo intercultural."
+          },
+          {
+            "question": "¿Están reconocidos oficialmente (LEY ORGÁNICA 1/2002, de 22 de marzo)?",
+            "answer": "Sí, ANAE es una asociación oficialmente registrada en España. Estamos inscritos en el Registro Nacional de Asociaciones español. Nuestro número de identificación fiscal (NIF) es G01968437. Como asociación sin ánimo de lucro, cumplimos con todas las obligaciones legales y regulatorias españolas. Mantenemos una transparencia total en nuestras actividades y gestión financiera."
+          },
+          {
+            "question": "¿Dónde están ubicados?",
+            "answer": "Nuestra asociación está ubicada en Zaragoza, España. Ahí se encuentra nuestra oficina principal. Aunque estamos localizados en Zaragoza, nuestras actividades e impacto se extienden por toda España, y trabajamos con miembros y beneficiarios en diferentes regiones del país."
+          }
+        ]
+      },
+      "donations": {
+        "title": "Donaciones",
+        "questions": [
+          {
+            "question": "¿Cómo hacer una donación?",
+            "answer": "Puede hacer una donación de varias formas: a través de PayPal (pago seguro en línea), a través de Bizum (pago instantáneo por móvil al número 654 155 924), o por transferencia bancaria SEPA al IBAN ES81 0049 0401 1122 1027 2614 al beneficiario 'Asociación Nacional de Argelinos en España'. Todos los pagos son 100% seguros. Encontrará el botón 'Donar' en el menú de navegación de nuestro sitio web."
+          },
+          {
+            "question": "¿A dónde van las donaciones?",
+            "answer": "Las donaciones se utilizan exclusivamente para financiar nuestras actividades y programas: la organización de eventos culturales (exposiciones, conferencias, talleres), la ayuda a personas en dificultades (especialmente durante nuestro iftar de Ramadán anual), los servicios de mediación y orientación, la coordinación administrativa con las autoridades, y el desarrollo de nuestras actividades comunitarias. Cada euro contribuye directamente a apoyar a la comunidad argelina en España y promover el diálogo intercultural."
+          },
+          {
+            "question": "¿Cómo puedo estar seguro de que mi dinero se usa correctamente?",
+            "answer": "Garantizamos una transparencia total en el uso de los fondos. Como asociación registrada oficialmente (NIF: G01968437), cumplimos con todas las obligaciones contables y legales españolas. Conservamos todos los documentos financieros durante 7 años conforme a la legislación española. Puede contactarnos en cualquier momento para obtener información sobre el uso de los fondos. Nos comprometemos a utilizar cada donación de manera responsable y eficaz para maximizar nuestro impacto en la comunidad."
+          }
+        ]
+      },
+      "volunteering": {
+        "title": "Voluntariado",
+        "questions": [
+          {
+            "question": "¿Cómo convertirse en voluntario?",
+            "answer": "Para convertirse en voluntario, puede contactarnos por correo electrónico a contacto@asociacionanae.org o por teléfono al +34 674 748 699. Damos la bienvenida a cualquier persona que desee contribuir a nuestras actividades, sea argelina o no. Los voluntarios pueden participar en la organización de eventos culturales, la ayuda a personas en dificultades, la mediación, u otras actividades según sus habilidades y disponibilidad."
+          },
+          {
+            "question": "¿Aceptan voluntarios a distancia / en el extranjero?",
+            "answer": "Sí, aceptamos voluntarios a distancia y en el extranjero. Algunas de nuestras actividades pueden realizarse en línea, como la gestión de redes sociales, la traducción, la creación de contenido, la coordinación de eventos, o el apoyo administrativo. Si está interesado en el voluntariado a distancia, contáctenos para discutir las oportunidades disponibles y ver cómo puede contribuir según sus habilidades y ubicación."
+          }
+        ]
+      },
+      "beneficiaries": {
+        "title": "Beneficiarios",
+        "questions": [
+          {
+            "question": "¿Quién se beneficia de sus acciones?",
+            "answer": "Nuestras acciones benefician principalmente a la comunidad argelina en España, especialmente a las personas en dificultades, a los recién llegados que necesitan ayuda para su integración, y a todos aquellos que desean mantener y compartir su cultura. También ayudamos a las personas que no pueden vivir y comer en las condiciones del Ramadán durante nuestro iftar anual. Además, nuestras actividades culturales y de mediación benefician a toda la sociedad española al favorecer el diálogo intercultural y la comprensión mutua entre las diferentes comunidades."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contacto",
+        "questions": [
+          {
+            "question": "¿Cómo contactarlos?",
+            "answer": "Puede contactarnos de varias formas: por correo electrónico a contacto@asociacionanae.org (generalmente respondemos en 24h), vía WhatsApp, o utilizando el formulario de contacto en nuestro sitio web. También puede seguirnos en nuestras redes sociales (Facebook, YouTube, Instagram) para mantenerse informado de nuestras actividades. Nuestra oficina principal está ubicada en Zaragoza, España."
+          }
+        ]
+      }
+    }
+  }
+}

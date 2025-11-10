@@ -1,0 +1,560 @@
+{
+  "metadata": {
+    "title": "ANAE - Association Nationale des Algériens en Espagne",
+    "description": "L'Association Nationale des Algériens en Espagne (ANAE) travaille sans relâche pour construire des ponts d'espoir, autonomiser les personnes et créer des changements durables dans nos communautés."
+  },
+  "seo": {
+    "home": {
+      "title": "ANAE - Association Nationale des Algériens en Espagne",
+      "description": "ANAE promeut la culture algérienne en Espagne. Nous organisons des événements culturels, médiation socioculturelle et assistance administrative pour la communauté algérienne.",
+      "keywords": "association algérienne espagne, culture algérienne, communauté algérienne saragosse, événements culturels, médiation socioculturelle, ANAE",
+      "imageAlt": "ANAE - Association Nationale des Algériens en Espagne"
+    },
+    "about": {
+      "title": "À Propos d'ANAE - Notre Mission et Valeurs",
+      "description": "Découvrez ANAE : promotion culturelle, médiation socioculturelle et soutien à la communauté algérienne en Espagne. Valeurs de solidarité, respect et inclusion.",
+      "keywords": "à propos anae, mission anae, valeurs anae, association algérienne, promotion culturelle algérienne",
+      "imageAlt": "À Propos de l'Association Nationale des Algériens en Espagne"
+    },
+    "contact": {
+      "title": "Contact - ANAE | Contactez-nous",
+      "description": "Contactez-nous pour toute question ou assistance. Email : contacto@asociacionanae.org | Téléphone : +34 674 748 699 | Saragosse, Espagne",
+      "keywords": "contact anae, email anae, téléphone anae, contacter association algérienne",
+      "imageAlt": "Contactez ANAE"
+    },
+    "blog": {
+      "title": "Blog et Actualités - ANAE",
+      "description": "Restez informé avec les dernières nouvelles, événements et histoires de la communauté algérienne en Espagne. Blog officiel d'ANAE.",
+      "keywords": "blog anae, actualités communauté algérienne, événements culturels, nouvelles anae",
+      "imageAlt": "Blog et Actualités ANAE"
+    },
+    "faq": {
+      "title": "Questions Fréquentes - ANAE",
+      "description": "Trouvez des réponses aux questions les plus courantes sur ANAE : dons, bénévolat, nos actions et comment nous rejoindre.",
+      "keywords": "faq anae, questions fréquentes anae, dons, bénévolat, informations anae",
+      "imageAlt": "Questions Fréquentes ANAE"
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité - ANAE | RGPD",
+      "description": "Politique de confidentialité d'ANAE conforme au RGPD. Protection des données personnelles, vos droits et comment nous utilisons vos informations.",
+      "keywords": "politique confidentialité anae, rgpd, protection données, vie privée",
+      "imageAlt": "Politique de Confidentialité ANAE"
+    },
+    "cookies": {
+      "title": "Politique des Cookies - ANAE",
+      "description": "Informations sur l'utilisation des cookies sur le site web d'ANAE. Cookies techniques essentiels et comment les gérer.",
+      "keywords": "politique cookies anae, cookies, gestion cookies",
+      "imageAlt": "Politique des Cookies ANAE"
+    },
+    "gallery": {
+      "title": "Galerie - ANAE | Événements et Activités",
+      "description": "Découvrez les moments forts de nos événements culturels, activités et initiatives communautaires à travers notre galerie de photos et vidéos.",
+      "keywords": "galerie anae, photos événements, vidéos activités, événements culturels",
+      "imageAlt": "Galerie d'Événements ANAE"
+    }
+  },
+  "language": {
+    "name": "Français",
+    "flag": "🇫🇷"
+  },
+  "nav": {
+    "home": "Accueil",
+    "association": {
+      "title": "L'Association",
+      "about": "À propos",
+      "gallery": "Galerie"
+    },
+    "contact": "Contact",
+    "blog": "Blog",
+    "donate": "Faire un don"
+  },
+  "hero": {
+    "badge": "Espoir en action",
+    "headline": "Construire des ponts d'espoir entre les communautés",
+    "subheadline": "Autonomiser les personnes, favoriser l'intégration et créer des changements durables grâce à l'action compassionnelle et au soutien communautaire.",
+    "primaryCta": "Nous rejoindre",
+    "secondaryCta": "Voir la galerie",
+    "summaryCta": "Voir notre impact",
+    "scrollHint": "Découvrez le pouvoir de la communauté",
+    "stats": {
+      "years": {
+        "label": "Années de service"
+      },
+      "initiatives": {
+        "value": "50+",
+        "label": "Activités organisées"
+      },
+      "volunteers": {
+        "value": "500+",
+        "label": "Personnes touchées"
+      }
+    }
+  },
+  "location": {
+    "city": "Saragosse",
+    "country": "Espagne"
+  },
+  "footer": {
+    "description": "L'Association Nationale des Algériens en Espagne (ANAE) travaille sans relâche pour construire des ponts d'espoir, autonomiser les personnes et créer des changements durables dans nos communautés.",
+    "quickLinks": {
+      "title": "Liens rapides",
+      "about": "À propos de nous",
+      "events": "Événements",
+      "blog": "Blog",
+      "news": "Actualités",
+      "faq": "Questions Fréquentes"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Saragosse, Espagne"
+    },
+    "legal": {
+      "title": "Légal",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d'utilisation",
+      "cookies": "Politique des cookies",
+      "transparency": "Transparence"
+    },
+    "certifications": {
+      "secure": "Paiements sécurisés",
+      "certified": "Organisation certifiée",
+      "transparency": "Transparence totale dans l'utilisation des fonds"
+    },
+    "copyright": "Tous droits réservés",
+    "registration": "Registre National des Associations",
+    "taxId": "NIF: G01968437",
+    "developedBy": "Développé avec ⚡ par"
+  },
+  "donation": {
+    "title": "Faire un don",
+    "subtitle": "Choisissez votre méthode de paiement préférée",
+    "methods": {
+      "paypal": {
+        "title": "PayPal",
+        "description": "Paiement sécurisé avec PayPal",
+        "button": "Donner avec PayPal"
+      },
+      "bizum": {
+        "title": "Bizum",
+        "description": "Paiement instantané par mobile",
+        "button": "Donner avec Bizum",
+        "details": {
+          "title": "Détails Bizum",
+          "phone": "Téléphone: 654 155 924"
+        }
+      },
+      "sepa": {
+        "title": "Virement SEPA",
+        "description": "Virement bancaire traditionnel",
+        "button": "Voir les détails",
+        "details": {
+          "title": "Détails du virement SEPA",
+          "iban": "IBAN: ES81 0049 0401 1122 1027 2614",
+          "beneficiary": "Bénéficiaire: Asociación Nacional de Argelinos en España"
+        }
+      }
+    },
+    "close": "Fermer",
+    "secure": "Paiements 100% sécurisés",
+    "transparency": "Transparence totale dans l'utilisation des fonds"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider. N'hésitez pas à nous contacter pour toute question ou assistance.",
+    "info": {
+      "title": "Informations de contact",
+      "email": {
+        "title": "Email",
+        "value": "contacto@asociacionanae.org",
+        "description": "Réponse sous 24h"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "value": "+34 674 748 699",
+        "description": "Lun-Ven 9h-18h"
+      },
+      "whatsapp": {
+        "available": "WhatsApp disponible"
+      },
+      "address": {
+        "title": "Adresse",
+        "value": "Saragosse, Espagne",
+        "description": "Bureau principal"
+      }
+    },
+    "social": {
+      "title": "Réseaux sociaux",
+      "description": "Suivez-nous et restez connecté"
+    },
+    "form": {
+      "fields": {
+        "name": "Nom complet",
+        "email": "Adresse email",
+        "subject": "Sujet",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Votre nom complet",
+        "email": "votre@email.com",
+        "subject": "Sujet de votre message",
+        "message": "Décrivez votre demande ou question..."
+      },
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès ! Nous vous répondrons bientôt.",
+      "error": "Échec de l'envoi du message"
+    }
+  },
+  "blog": {
+    "title": "Blog et Actualités",
+    "description": "Restez informé avec les dernières nouvelles, événements et histoires de notre communauté",
+    "noPosts": "Aucun article disponible pour le moment",
+    "minRead": "min de lecture"
+  },
+  "notFound": {
+    "title": "Page Non Trouvée",
+    "subtitle": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "description": "Ne vous inquiétez pas, cela arrive aux meilleurs. Nous vous aidons à retrouver votre chemin.",
+    "actions": {
+      "home": "Aller à l'Accueil"
+    }
+  },
+  "about": {
+    "title": "À propos d'ANAE",
+    "intro": "L'Association Nationale des Algériens en Espagne (ANAE) se dresse comme un phare de promotion culturelle et de médiation socioculturelle pour la communauté algérienne et les diverses cultures présentes en Espagne. Notre engagement se concentre sur la promotion de la culture algérienne, le renforcement de l'identité de nos compatriotes et la construction de ponts de compréhension entre les différentes communautés qui cohabitent dans ce pays.",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "L'ANAE s'efforce d'être un point de rencontre et de soutien pour les Algériens en Espagne. Nos principaux objectifs sont :",
+      "points": {
+        "culture": {
+          "title": "Promouvoir la Culture Algérienne",
+          "description": "Nous organisons des événements culturels, des expositions, des projections de films, des ateliers et des conférences pour diffuser le riche patrimoine culturel de l'Algérie auprès de la communauté algérienne et du public espagnol en général."
+        },
+        "mediation": {
+          "title": "Médiation Socioculturelle",
+          "description": "Nous offrons des services d'orientation et de médiation pour faciliter l'intégration des Algériens dans la société espagnole. De plus, nous promouvons le dialogue interculturel et la cohésion sociale entre les différentes communautés présentes en Espagne."
+        },
+        "activities": {
+          "title": "Rencontres et Activités",
+          "description": "Nous organisons des rencontres régulières où les Algériens peuvent se réunir, partager des expériences, établir des réseaux de soutien et participer à des activités récréatives et éducatives."
+        }
+      }
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "description": "L'ANAE est fondée sur des valeurs de solidarité, de respect, d'inclusion et de diversité. Nous nous efforçons de créer un environnement accueillant et collaboratif où toutes les personnes se sentent valorisées et respectées, indépendamment de leur origine culturelle ou religieuse."
+    },
+    "join": {
+      "title": "Rejoignez-Nous",
+      "description": "Si vous êtes algérien et que vous êtes en Espagne, nous vous invitons à rejoindre l'ANAE et à faire partie de notre communauté. Ensemble, nous pouvons renforcer notre identité culturelle, promouvoir l'intégration et contribuer à l'enrichissement mutuel entre les différentes cultures qui cohabitent dans ce beau pays.",
+      "closing": "Bienvenue à l'Association Nationale des Algériens en Espagne ! Ensemble, nous construirons un avenir plus prospère et harmonieux pour tous."
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "description": "Découvrez les moments forts de nos événements, activités et initiatives communautaires à travers notre collection de photos et vidéos.",
+    "comingSoon": {
+      "title": "Bientôt disponible",
+      "description": "Nous préparons une galerie complète de photos et vidéos de nos événements et activités. Revenez bientôt pour découvrir nos moments les plus mémorables !",
+      "photos": "Photos",
+      "videos": "Vidéos",
+      "events": "Événements"
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour",
+    "intro": "La Asociación Nacional de Argelinos en España (ANAE) s'engage à protéger votre vie privée et à respecter le Règlement Général sur la Protection des Données (RGPD). Cette politique explique comment nous collectons, utilisons et protégeons vos données personnelles.",
+    "sections": {
+      "controller": {
+        "title": "1. Responsable du Traitement",
+        "description": "Le responsable du traitement des données personnelles est :",
+        "org": "Asociación Nacional de Argelinos en España (ANAE)",
+        "nif": "NIF : G01968437",
+        "address": "Zaragoza, España",
+        "email": "contacto@asociacionanae.org",
+        "phone": "+34 674 748 699"
+      },
+      "dataCollected": {
+        "title": "2. Données Collectées",
+        "description": "Nous collectons les données personnelles suivantes :",
+        "types": {
+          "contact": {
+            "title": "Données de Contact",
+            "list": "Nom complet, adresse e-mail, sujet et message lorsque vous utilisez notre formulaire de contact"
+          },
+          "donations": {
+            "title": "Données de Donations",
+            "description": "Les informations de paiement sont gérées directement par les prestataires tiers (PayPal, Bizum, institutions bancaires). Nous ne stockons pas vos données bancaires."
+          },
+          "navigation": {
+            "title": "Données de Navigation",
+            "list": "Adresses IP, type de navigateur, pages visitées, durée de visite, cookies (voir notre politique de cookies)"
+          }
+        }
+      },
+      "purposes": {
+        "title": "3. Finalités du Traitement",
+        "description": "Nous utilisons vos données personnelles pour :",
+        "list": {
+          "contact": "Répondre à vos demandes via le formulaire de contact",
+          "donations": "Gérer les donations et assurer la transparence financière",
+          "improvement": "Améliorer notre site web et nos services",
+          "communication": "Communiquer avec les membres et sympathisants de l'association",
+          "legal": "Respecter nos obligations légales et réglementaires"
+        }
+      },
+      "legalBasis": {
+        "title": "4. Base Légale du Traitement",
+        "description": "Le traitement de vos données repose sur :",
+        "consent": "Consentement : pour le formulaire de contact et les cookies non essentiels",
+        "legitimate": "Intérêt légitime : pour l'amélioration de notre site web et la communication",
+        "legal": "Obligation légale : pour la conservation des données comptables"
+      },
+      "retention": {
+        "title": "5. Durée de Conservation",
+        "description": "Nous conservons vos données personnelles :",
+        "contact": "Données de contact : 3 ans à compter de la dernière interaction",
+        "after": "Après ces périodes, vos données sont supprimées ou anonymisées de manière sécurisée"
+      },
+      "recipients": {
+        "title": "6. Destinataires des Données",
+        "description": "Vos données peuvent être partagées avec :",
+        "providers": {
+          "title": "Prestataires de Services",
+          "list": "services d'envoi d'e-mails (Zoho Mail)"
+        },
+        "legal": {
+          "title": "Autorités Légales",
+          "description": "Si la loi l'exige ou pour répondre à une obligation légale"
+        },
+        "not": "Nous ne vendons jamais vos données personnelles à des tiers à des fins commerciales"
+      },
+      "transfers": {
+        "title": "7. Transferts Internationaux",
+        "description": "Certains de nos prestataires de services peuvent être situés hors de l'Union Européenne :",
+        "paypal": "PayPal : peut transférer des données aux États-Unis (soumis au Privacy Shield et aux clauses contractuelles types)",
+        "safeguards": "Nous nous assurons que des garanties appropriées sont en place pour protéger vos données lors de ces transferts"
+      },
+      "rights": {
+        "title": "8. Vos Droits",
+        "description": "Conformément au RGPD, vous disposez des droits suivants :",
+        "access": "Droit d'accès : obtenir une copie de vos données personnelles",
+        "rectification": "Droit de rectification : corriger vos données inexactes",
+        "erasure": "Droit à l'effacement : demander la suppression de vos données",
+        "opposition": "Droit d'opposition : vous opposer au traitement de vos données",
+        "portability": "Droit à la portabilité : recevoir vos données dans un format structuré",
+        "restriction": "Droit à la limitation : limiter le traitement de vos données",
+        "exercise": "Pour exercer ces droits, contactez-nous à : contacto@asociacionanae.org"
+      },
+      "security": {
+        "title": "9. Mesures de Sécurité",
+        "description": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données :",
+        "measures": {
+          "encryption": "Chiffrement SSL/TLS pour toutes les communications",
+          "access": "Contrôle d'accès strict aux données personnelles",
+          "backup": "Sauvegardes régulières et sécurisées",
+          "training": "Formation du personnel sur la protection des données",
+          "updates": "Mises à jour régulières de nos systèmes de sécurité"
+        }
+      },
+      "cookies": {
+        "title": "10. Cookies et Traceurs",
+        "description": "Notre site utilise des cookies pour améliorer votre expérience. Pour plus d'informations, consultez notre",
+        "link": "Politique des Cookies"
+      },
+      "changes": {
+        "title": "11. Modifications de cette Politique",
+        "description": "Nous pouvons mettre à jour cette politique de confidentialité occasionnellement. Toute modification sera publiée sur cette page avec une date de mise à jour révisée."
+      },
+      "contact": {
+        "title": "12. Contact",
+        "description": "Pour toute question concernant cette politique de confidentialité ou vos données personnelles, contactez-nous :",
+        "email": "E-mail : contacto@asociacionanae.org",
+        "phone": "Téléphone : +34 674 748 699"
+      }
+    }
+  },
+  "home": {
+    "sections": {
+      "whatWeDo": {
+        "title": "Ce que nous faisons",
+        "description": "Notre association œuvre pour renforcer les liens au sein de la communauté algérienne en Espagne et promouvoir l'intégration culturelle. Nous créons des espaces de rencontre, d'échange et de solidarité.",
+        "illustrationPlaceholder": "Illustration à venir"
+      },
+      "culturalEvents": {
+        "title": "Événements Culturels",
+        "description": "Nous organisons régulièrement des événements culturels pour promouvoir la riche culture algérienne en Espagne. Des expositions d'art, des concerts de musique traditionnelle, des conférences sur l'histoire et la littérature algériennes, ainsi que des ateliers de gastronomie permettent de partager notre patrimoine avec la communauté espagnole et de renforcer les liens interculturels.",
+        "illustrationPlaceholder": "Illustration à venir"
+      },
+      "ramadanIftar": {
+        "title": "Iftar de Ramadan",
+        "description": "Chaque année, notre association organise un iftar de ramadan pour venir en aide aux personnes en difficulté qui ne peuvent pas vivre et manger dans les conditions du ramadan. Grâce à la générosité de nos contributeurs et donateurs, nous offrons des repas et un soutien essentiel à ceux qui en ont le plus besoin pendant cette période traditionnelle algérienne. C'est un moment de solidarité et de partage qui renforce les liens communautaires et perpétue nos valeurs d'entraide.",
+        "illustrationPlaceholder": "Illustration à venir"
+      },
+      "services": {
+        "title": "Services & Coordination",
+        "description": "Notre association assure la coordination avec le consulat d'Algérie et les autorités espagnoles pour faciliter les démarches administratives de la communauté algérienne. Nous servons d'intermédiaire et de point de contact pour les questions liées aux documents, à la légalisation, aux formalités de résidence et autres procédures administratives nécessaires à l'intégration en Espagne.",
+        "illustrationPlaceholder": "Illustration à venir"
+      }
+    }
+  },
+  "cookies": {
+    "title": "Politique des Cookies",
+    "lastUpdated": "Dernière mise à jour",
+    "intro": "Cette page vous informe sur l'utilisation des cookies sur notre site web. Nous respectons votre vie privée et sommes transparents sur les cookies que nous utilisons.",
+    "sections": {
+      "whatAre": {
+        "title": "1. Qu'est-ce qu'un Cookie ?",
+        "description": "Un cookie est un petit fichier texte stocké sur votre appareil (ordinateur, tablette, smartphone) lorsque vous visitez un site web. Les cookies permettent au site de mémoriser vos préférences et d'améliorer votre expérience de navigation."
+      },
+      "types": {
+        "title": "2. Types de Cookies Utilisés",
+        "description": "Notre site utilise uniquement des cookies techniques essentiels, strictement nécessaires au bon fonctionnement du site. Nous n'utilisons aucun cookie de tracking, de publicité ou d'analyse.",
+        "technical": {
+          "title": "Cookies Techniques (Essentiels)",
+          "description": "Ces cookies sont indispensables au fonctionnement du site et ne nécessitent pas de consentement selon le RGPD :",
+          "list": {
+            "session": "Cookies de session : permettent de maintenir votre session active pendant votre visite (durée : session, supprimés à la fermeture du navigateur)",
+            "security": "Cookies de sécurité : protègent le site contre les attaques et assurent la sécurité des données (durée : session)",
+            "preferences": "Cookies de préférences : mémorisent vos choix de langue et d'affichage (si applicable)"
+          }
+        },
+        "notUsed": {
+          "title": "Cookies Non Utilisés",
+          "description": "Nous n'utilisons PAS les types de cookies suivants :",
+          "list": {
+            "analytics": "Cookies analytiques (Google Analytics, etc.)",
+            "advertising": "Cookies publicitaires",
+            "social": "Cookies de réseaux sociaux",
+            "tracking": "Cookies de tracking comportemental"
+          }
+        }
+      },
+      "purpose": {
+        "title": "3. Finalité des Cookies",
+        "description": "Les cookies techniques que nous utilisons servent uniquement à :",
+        "list": {
+          "functionality": "Assurer le bon fonctionnement du site",
+          "security": "Maintenir la sécurité de votre session",
+          "preferences": "Mémoriser vos préférences de langue et d'affichage (si applicable)"
+        }
+      },
+      "duration": {
+        "title": "4. Durée de Conservation",
+        "description": "Les cookies techniques sont :",
+        "session": "Supprimés automatiquement à la fermeture de votre navigateur (cookies de session)",
+        "temporary": "Strictement temporaires et ne persistent pas après votre visite"
+      },
+      "thirdParty": {
+        "title": "5. Cookies Tiers",
+        "description": "Notre site n'utilise aucun cookie tiers. Tous les cookies utilisés sont des cookies de première partie, gérés directement par notre site."
+      },
+      "management": {
+        "title": "6. Gestion des Cookies",
+        "description": "Vous pouvez gérer ou supprimer les cookies à tout moment via les paramètres de votre navigateur :",
+        "instructions": {
+          "chrome": "Chrome : Paramètres > Confidentialité et sécurité > Cookies",
+          "firefox": "Firefox : Options > Vie privée et sécurité > Cookies",
+          "safari": "Safari : Préférences > Confidentialité > Cookies",
+          "edge": "Edge : Paramètres > Confidentialité, recherche et services > Cookies"
+        },
+        "note": "Note : La désactivation des cookies techniques peut affecter le fonctionnement du site."
+      },
+      "consent": {
+        "title": "7. Consentement",
+        "description": "Conformément au RGPD, les cookies techniques essentiels ne nécessitent pas de consentement préalable car ils sont strictement nécessaires au fonctionnement du site. Comme nous n'utilisons que des cookies essentiels, aucune bannière de consentement n'est requise.",
+        "future": "Si nous devions introduire des cookies non essentiels à l'avenir (cookies analytiques, par exemple), nous mettrions en place un système de consentement conforme au RGPD."
+      },
+      "updates": {
+        "title": "8. Modifications de cette Politique",
+        "description": "Nous pouvons mettre à jour cette politique de cookies occasionnellement. Toute modification sera publiée sur cette page avec une date de mise à jour révisée."
+      },
+      "contact": {
+        "title": "9. Contact",
+        "description": "Pour toute question concernant notre utilisation des cookies, contactez-nous :",
+        "email": "E-mail : contacto@asociacionanae.org",
+        "phone": "Téléphone : +34 674 748 699"
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "intro": "Trouvez des réponses aux questions les plus courantes sur notre association, nos actions, nos dons et comment nous rejoindre.",
+    "categories": {
+      "about": {
+        "title": "À propos de l'association",
+        "questions": [
+          {
+            "question": "Que fait exactement votre association ?",
+            "answer": "L'Association Nationale des Algériens en Espagne (ANAE) œuvre pour la promotion culturelle et la médiation socioculturelle. Nous organisons des événements culturels (expositions, projections de films, ateliers, conférences), offrons des services de médiation et d'orientation pour faciliter l'intégration des Algériens en Espagne, et coordonnons avec le consulat d'Algérie et les autorités espagnoles pour les démarches administratives. Nous organisons également des rencontres régulières pour renforcer les liens communautaires et promouvoir le dialogue interculturel."
+          },
+          {
+            "question": "Pourquoi avoir créé cette association ?",
+            "answer": "L'ANAE a été créée pour répondre aux besoins de la communauté algérienne en Espagne. Nous avons identifié la nécessité de créer un espace de rencontre, de soutien et de promotion culturelle qui permette aux Algériens de maintenir leur identité culturelle tout en favorisant leur intégration dans la société espagnole. L'association sert de pont entre les cultures et facilite la compréhension mutuelle entre les différentes communautés."
+          },
+          {
+            "question": "Quelle est votre vision à long terme ?",
+            "answer": "Notre vision à long terme est de devenir une référence pour la communauté algérienne en Espagne, en renforçant les liens culturels, en favorisant l'intégration sociale et en contribuant à l'enrichissement mutuel entre les cultures. Nous aspirons à élargir nos activités, à développer davantage de programmes d'aide et de médiation, et à créer un réseau solide de soutien qui bénéficie non seulement aux Algériens mais à toute la société espagnole à travers le dialogue interculturel."
+          },
+          {
+            "question": "Êtes-vous reconnus officiellement (LEY ORGÁNICA 1/2002, de 22 de marzo) ?",
+            "answer": "Oui, l'ANAE est une association officiellement enregistrée en Espagne. Nous sommes inscrits au Registre National des Associations espagnol. Notre numéro d'identification fiscale (NIF) est G01968437. En tant qu'association à but non lucratif, nous respectons toutes les obligations légales et réglementaires espagnoles. Nous maintenons une transparence totale dans nos activités et notre gestion financière."
+          },
+          {
+            "question": "Où êtes-vous basés ?",
+            "answer": "Notre association est basée à Saragosse, en Espagne. C'est là que se trouve notre bureau principal. Bien que nous soyons localisés à Saragosse, nos activités et notre impact s'étendent à toute l'Espagne, et nous travaillons avec des membres et des bénéficiaires dans différentes régions du pays."
+          }
+        ]
+      },
+      "donations": {
+        "title": "Dons",
+        "questions": [
+          {
+            "question": "Comment faire un don ?",
+            "answer": "Vous pouvez faire un don de plusieurs façons : via PayPal (paiement sécurisé en ligne), via Bizum (paiement instantané par mobile au numéro 654 155 924), ou par virement bancaire SEPA à l'IBAN ES81 0049 0401 1122 1027 2614 au bénéficiaire 'Asociación Nacional de Argelinos en España'. Tous les paiements sont 100% sécurisés. Vous trouverez le bouton 'Faire un don' dans le menu de navigation de notre site web."
+          },
+          {
+            "question": "Où vont les dons ?",
+            "answer": "Les dons sont utilisés exclusivement pour financer nos activités et programmes : l'organisation d'événements culturels (expositions, conférences, ateliers), l'aide aux personnes en difficulté (notamment lors de notre iftar de Ramadan annuel), les services de médiation et d'orientation, la coordination administrative avec les autorités, et le développement de nos activités communautaires. Chaque euro contribue directement à soutenir la communauté algérienne en Espagne et à promouvoir le dialogue interculturel."
+          },
+          {
+            "question": "Comment puis-je être sûr que mon argent est bien utilisé ?",
+            "answer": "Nous garantissons une transparence totale dans l'utilisation des fonds. En tant qu'association enregistrée officiellement (NIF: G01968437), nous respectons toutes les obligations comptables et légales espagnoles. Nous conservons tous les documents financiers pendant 7 ans conformément à la législation espagnole. Vous pouvez nous contacter à tout moment pour obtenir des informations sur l'utilisation des fonds. Nous nous engageons à utiliser chaque don de manière responsable et efficace pour maximiser notre impact sur la communauté."
+          }
+        ]
+      },
+      "volunteering": {
+        "title": "Bénévolat",
+        "questions": [
+          {
+            "question": "Comment devenir bénévole ?",
+            "answer": "Pour devenir bénévole, vous pouvez nous contacter par email à contacto@asociacionanae.org ou par téléphone au +34 674 748 699. Nous accueillons chaleureusement toute personne souhaitant contribuer à nos activités, qu'elle soit algérienne ou non. Les bénévoles peuvent participer à l'organisation d'événements culturels, à l'aide aux personnes en difficulté, à la médiation, ou à d'autres activités selon leurs compétences et disponibilités."
+          },
+          {
+            "question": "Acceptez-vous des bénévoles à distance / à l'étranger ?",
+            "answer": "Oui, nous acceptons les bénévoles à distance et à l'étranger. Certaines de nos activités peuvent être réalisées en ligne, comme la gestion des réseaux sociaux, la traduction, la création de contenu, la coordination d'événements, ou le soutien administratif. Si vous êtes intéressé par le bénévolat à distance, contactez-nous pour discuter des opportunités disponibles et voir comment vous pouvez contribuer selon vos compétences et votre localisation."
+          }
+        ]
+      },
+      "beneficiaries": {
+        "title": "Bénéficiaires",
+        "questions": [
+          {
+            "question": "Qui bénéficient de vos actions ?",
+            "answer": "Nos actions bénéficient principalement à la communauté algérienne en Espagne, notamment aux personnes en difficulté, aux nouveaux arrivants qui ont besoin d'aide pour leur intégration, et à tous ceux qui souhaitent maintenir et partager leur culture. Nous aidons également les personnes qui ne peuvent pas vivre et manger dans les conditions du Ramadan lors de notre iftar annuel. De plus, nos activités culturelles et de médiation bénéficient à toute la société espagnole en favorisant le dialogue interculturel et la compréhension mutuelle entre les différentes communautés."
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contact",
+        "questions": [
+          {
+            "question": "Comment vous contacter ?",
+            "answer": "Vous pouvez nous contacter de plusieurs façons : par email à contacto@asociacionanae.org (nous répondons généralement sous 24h), via WhatsApp, ou en utilisant le formulaire de contact sur notre site web. Vous pouvez également nous suivre sur nos réseaux sociaux (Facebook, YouTube, Instagram) pour rester informé de nos activités. Notre bureau principal est situé à Saragosse, Espagne."
+          }
+        ]
+      }
+    }
+  }
+}

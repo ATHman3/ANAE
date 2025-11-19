@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://asociacionanae.org';
 const SITE_NAME = 'ANAE';
 const SITE_NAME_FULL = 'Asociación Nacional de Argelinos en España';
-const DEFAULT_OG_IMAGE = '/images/og/og-logo.png';
+const DEFAULT_OG_IMAGE = '/og';
 
 // Locales supportées
 export const locales = ['ar', 'es', 'fr', 'en'] as const;

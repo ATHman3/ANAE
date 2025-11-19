@@ -18,7 +18,7 @@ interface LayoutProps {
 export async function generateMetadata({ params }: LayoutProps): Promise<Metadata> {
     const { locale } = await params;
     const t = await getTranslations({ locale, namespace: 'seo.home' });
-    
+
     // Utiliser la fonction utilitaire pour générer les métadonnées complètes
     return generateSEOMetadata({
         locale: locale as Locale,
@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: LayoutProps): Promise<Metadat
         description: t('description'),
         keywords: t('keywords'),
         path: '',
-        image: '/images/og/og-logo.png',
+        image: '/og',
         imageAlt: t('imageAlt'),
         type: 'website',
     });
@@ -43,9 +43,9 @@ export default async function RootLayout({
 
     return (
         <NextIntlClientProvider>
-            <Header/>
+            <Header />
             {children}
-            <Footer/>
+            <Footer />
         </NextIntlClientProvider>
     );
 }

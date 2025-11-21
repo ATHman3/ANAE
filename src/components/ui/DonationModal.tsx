@@ -36,8 +36,7 @@ export default function DonationModal({ isOpen, onClose }: DonationModalProps) {
   }, []);
 
   const handlePayPalClick = useCallback(() => {
-    // Ici vous pouvez ajouter l'intégration PayPal réelle
-    window.open("https://paypal.com", "_blank");
+    window.open("https://www.paypal.com/donate/?hosted_button_id=5ND9UES5EPQKY", "_blank");
   }, []);
 
   if (!isOpen || !mounted) return null;

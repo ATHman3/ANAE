@@ -61,11 +61,6 @@ export default function Footer() {
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/events" className="text-gray-300 hover:text-white transition-colors text-sm">
-                                    {t("quickLinks.events")}
-                                </Link>
-                            </li>
-                            <li>
                                 <Link href="/blog" className="text-gray-300 hover:text-white transition-colors text-sm">
                                     {t("quickLinks.blog")} & {t("quickLinks.news")}
                                 </Link>
